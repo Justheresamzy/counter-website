@@ -13,4 +13,4 @@ https://counterwebsitee.netlify.app/
 
 it'll take you straight to it.
 
-Thank for trying it out ☺️
+Thanks for trying it out ☺️
