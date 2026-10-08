@@ -1,6 +1,6 @@
 
 ## Counter Website
-This website is only for desktops and tablets.
+This website is only for desktops/laptops and tablets.
 
 ### Description
 Hi, this is my first project containing javascript.
@@ -9,6 +9,7 @@ There are 4 buttons on the counter website:
 - Decrease = decreases the counter
 - Reset = Resets the counter back to 0
 - Switch = This changes it from light mode to dark mode (reload page if you want it back to light mode)
+- This website is made with HTML, CSS and javascript and made public using netlify.
 
 ### How it looks Light Mode/Dark Mode:
 <img width="1470" height="837" alt="Screenshot 2026-10-09 at 2 23 49 am" src="https://github.com/user-attachments/assets/59dc6f45-8597-4cab-a7c5-71976e7b236f" />
