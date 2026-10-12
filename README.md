@@ -5,7 +5,7 @@ This website is only for desktops/laptops and tablets.
 ### Description
 
 Hi, this is my first project containing javascript.
-This is a very simple project, it a very simple counter. So you can increase the counter or decrease it to count.
+This is a very simple counter, you can increase the counter or decrease it to count.
 This website is made with HTML, CSS and javascript and made public using Github Pages.
 There are 4 buttons on the counter website:
 - Increase = increases the counter
