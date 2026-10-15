@@ -24,6 +24,21 @@ There are 4 buttons on the counter website:
 - Javascript - Functionality
 - Github Pages - Hosting/ Making it public
 
+## Run Locally
+- Download the project files - index.html, style.css and script.js
+- Put all files into one folder on your device
+- Open index.html in your web browser to use the counter.
+
+## Modify Locally
+
+- Download the project files - index.html, style.css and script.js
+- Put all files into one folder on your device
+- Open index.html to modify the webpage structure 
+- Open style.css to change the design
+- Open script.js to modify features
+- Reload the page to see your changes made
+- You could also host it using Github pages 
+
 ### How to Access
 To access the website press this link, it'll take you straight to it:
 - https://justheresamzy.github.io/counter-website/
